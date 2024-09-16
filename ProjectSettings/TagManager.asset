@@ -10,11 +10,13 @@ TagManager:
   - button_down
   - button_left
   - button_right
+  - Pearl
+  - GhostSpawn
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Maze_ collider
+  - maze
   - Water
   - UI
   - 
